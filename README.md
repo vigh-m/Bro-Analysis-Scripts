@@ -14,5 +14,5 @@ Collection of python scripts I have used to analyse the ouput logs from bro netw
     - Add easy options to change the scaling/compression value.
     - Plot each file's output on the same graph with clear labelling and different colours.
 
-# Python Version
+# Version
 All scripts are in Python 2.7 unless specified otherwise. Tested on Ubuntu 16.04
