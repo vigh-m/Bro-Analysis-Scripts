@@ -2,10 +2,8 @@
 
 Collection of python scripts I have used to analyse the ouput logs from [bro network security monitor] (https://www.bro.org/)
 
-**1. Create Rate Graphs ([create_rate_graphs.py](create_rate_graphs.py)):**
-  
-  Analyses the rate of ingress and egress packets per second per log file and generates a graph for it.
-  
+**1. Create Rate Graphs ([create_rate_graphs.py](create_rate_graphs.py)):**  
+  Analyses the rate of ingress and egress packets per second per log file and generates a graph for it.  
   Logs files are generated using
   >$ bro -r my_capture.pcap
   
